@@ -1,0 +1,36 @@
+.coupon-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: all 0.3s ease;
+}
+
+.coupon-card:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.search-box {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.store-name {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.coupon-code {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 4px;
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: center;
+    margin: 15px 0;
+    cursor: pointer;
+    border: 2px dashed #ddd;
+}
